@@ -34,7 +34,7 @@ A fun and interactive **Quiz App** built with **React** and **Tailwind CSS**, fe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/SumanDas60/-Quiz-App.git
 ````
 
 2. Navigate into the project:
