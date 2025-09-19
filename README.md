@@ -94,15 +94,15 @@ quiz-app/
 
 ### 🏠 Home Screen
 
-![Choose category and difficulty.](./screenshot.png) 
+![Choose category and difficulty.](https://github.com/SumanDas60/-Quiz-App/blob/13ef0ef936f6c7186c6ca2862818b174d668f0f1/Screenshot%202025-09-19%20203747.png) 
 
 ### ❓ Quiz Screen
 
-![Questions with a timer and options.](./screenshot.png) 
+![Questions with a timer and options.](https://github.com/SumanDas60/-Quiz-App/blob/13ef0ef936f6c7186c6ca2862818b174d668f0f1/Screenshot%202025-09-19%20203857.png) 
 
 ### 🎊 Result Screen
 
-![Final score + confetti celebration.](./screenshot.png) 
+![Final score + confetti celebration.](https://github.com/SumanDas60/-Quiz-App/blob/13ef0ef936f6c7186c6ca2862818b174d668f0f1/Screenshot%202025-09-19%20204004.png) 
 
 ---
 
