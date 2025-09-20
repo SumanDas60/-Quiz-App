@@ -1,7 +1,3 @@
-Got it ✅ Here’s a clean **README.md** for your **Quiz App** with categories, difficulty levels, timer, and confetti celebration 🎉.
-
----
-
 ````markdown
 # ⚡ React Quiz App
 
